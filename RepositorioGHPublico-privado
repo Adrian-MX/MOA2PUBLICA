@@ -1,0 +1,6 @@
+Diferencias entre repositorios publicos y privados en GiHUb
+Los repositorios públicos son visibles para cualquier usuario en su instancia de GitHub Enterprise, por lo que puede beneficiarse de una comunidad colaborativa.
+Los repositorios privados requieren un poco más de configuración. Solo están disponibles para usted, el propietario del repositorio, así como cualquier colaborador con el que elija compartir .
+Puedes restringir quién tiene acceso a un repositorio si eliges la visibilidad del mismo: pública, interna, o privada.
+Cuando creas un repositorio, puedes elegir hacerlo público o privado. Si estás creando el repositorio en una organización que pertenece a una cuenta empresarial, también puedes elegir hacer el repositorio interno.
+Cualquiera en la internet puede acceder a los repositorios públicos. Solo tú, las personas con las que compartes el acceso explícitamente y, para los repositorios de organizaciones, algunos miembros de la organización, pueden acceder a los repositorios privados. Los miembros de las empresas pueden acceder a los repositorios internos.
